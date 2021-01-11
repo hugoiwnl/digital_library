@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://images.pexels.com/photos/472311/pexels-photo-472311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6,label,a{
+    color:black;
+    font-family: 'Arvo',serif;
+}
+.back{
+    text-align: left;
+}
+.container{
+    color:black;
+}
+h1{
+    padding: 30px;
+}
+a{
+    color:blue;
+}

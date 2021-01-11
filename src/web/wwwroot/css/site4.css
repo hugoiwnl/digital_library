@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://images.pexels.com/photos/1303081/pexels-photo-1303081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6,th,td{
+    color:white;
+    font-family: 'Nunito', sans-serif;
+
+}
+a{
+    color:yellow;
+    font-family: 'Nunito', sans-serif;
+
+}
+#dugme_s{
+    color: yellow;
+}

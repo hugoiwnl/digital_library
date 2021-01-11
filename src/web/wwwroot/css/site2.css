@@ -1,0 +1,83 @@
+body{
+    background-image: url("https://images.pexels.com/photos/1112048/pexels-photo-1112048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+.text-center{
+    width:960px;
+    margin: 0 auto;
+}
+h1{
+    color:white;
+    font-family: 'Lobster', cursive;
+    font-size: 80px;
+    animation: Slide_Up 1.4s ease;
+    padding: 50px;
+
+}
+p{
+    color: white;
+    font-family: 'Arvo', serif; 
+    font-size: large;
+    animation: Slide_Up 2.1s ease;
+    padding: 50px;
+    font-size: 35px;
+}
+.btn{
+    border: 1px solid white;
+    background: none;
+    padding: 10px 20px;
+    font-size: 30px;
+    font-family: 'Arvo', serif;
+    
+    cursor: pointer;
+    animation: Slide_Up 2.4s ease;
+    color:white;
+}
+.btn span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+.btn span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+    color:white;
+  }
+  
+.btn:hover span {
+    padding-right: 25px;
+    color:white;
+  }
+  
+.btn:hover span:after {
+    opacity: 1;
+    right: 0;
+    color:white;
+  }
+
+.tekst{
+    text-align: center;
+    
+    
+}
+@keyframes Slide_Up{
+    0%{
+        transform: translateY(400px);
+    }
+    100%{
+        transform: translateY(0);
+    }
+}
+@keyframes Slide_Right{
+    0%{
+        transform: translateX(-400px);
+    }
+    100%{
+        transform: translateX(0);
+    }
+}
