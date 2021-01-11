@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\web.csproj",
+  "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\web.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,143 +14392,143 @@
   "RootNamespace": "web",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Views\\Students\\Index.cshtml",
-      "TargetPath": "Views\\Students\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Views\\Students\\Details.cshtml",
-      "TargetPath": "Views\\Students\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Views\\Students\\Create.cshtml",
-      "TargetPath": "Views\\Students\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Views\\About\\Index.cshtml",
-      "TargetPath": "Views\\About\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Views\\Shared\\_LoginPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Views\\Students\\Delete.cshtml",
-      "TargetPath": "Views\\Students\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Views\\Courses\\Rent.cshtml",
-      "TargetPath": "Views\\Courses\\Rent.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Views\\Courses\\Edit.cshtml",
-      "TargetPath": "Views\\Courses\\Edit.cshtml",
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Views\\Students\\Edit.cshtml",
-      "TargetPath": "Views\\Students\\Edit.cshtml",
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Views\\Courses\\Rent.cshtml",
+      "TargetPath": "Views\\Courses\\Rent.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Views\\Courses\\Create.cshtml",
-      "TargetPath": "Views\\Courses\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Views\\Courses\\Index.cshtml",
-      "TargetPath": "Views\\Courses\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Views\\Courses\\Delete.cshtml",
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Views\\Courses\\Delete.cshtml",
       "TargetPath": "Views\\Courses\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\Views\\Courses\\Details.cshtml",
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Views\\Students\\Create.cshtml",
+      "TargetPath": "Views\\Students\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Views\\Students\\Index.cshtml",
+      "TargetPath": "Views\\Students\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Views\\Students\\Delete.cshtml",
+      "TargetPath": "Views\\Students\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Views\\About\\Index.cshtml",
+      "TargetPath": "Views\\About\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Views\\Courses\\Create.cshtml",
+      "TargetPath": "Views\\Courses\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Views\\Courses\\Edit.cshtml",
+      "TargetPath": "Views\\Courses\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Views\\Students\\Details.cshtml",
+      "TargetPath": "Views\\Students\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Views\\Courses\\Details.cshtml",
       "TargetPath": "Views\\Courses\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Views\\Courses\\Index.cshtml",
+      "TargetPath": "Views\\Courses\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\Views\\Students\\Edit.cshtml",
+      "TargetPath": "Views\\Students\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],

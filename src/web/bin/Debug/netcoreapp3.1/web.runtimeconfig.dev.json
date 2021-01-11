@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Envy\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Envy\\.nuget\\packages"
+      "C:\\Users\\grigo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\grigo\\.nuget\\packages"
     ]
   }
 }

@@ -8956,26 +8956,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Envy\\.nuget\\packages\\": {}
+    "C:\\Users\\grigo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\web.csproj",
+      "projectUniqueName": "C:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\web.csproj",
       "projectName": "web",
-      "projectPath": "C:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\web.csproj",
-      "packagesPath": "C:\\Users\\Envy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Envy\\Desktop\\fakultet\\IS\\seminarska_final\\is\\src\\web\\obj\\",
+      "projectPath": "C:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\web.csproj",
+      "packagesPath": "C:\\Users\\grigo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\grigo\\OneDrive\\Desktop\\InformationSystems\\digital_library\\src\\web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Envy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\grigo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -9035,7 +9033,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
