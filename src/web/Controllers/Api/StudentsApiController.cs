@@ -7,11 +7,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using web.Data;
 using web.Models;
+using web.Filters;
 
 namespace web.Controllers_Api
 {
     [Route("api/v1/Student")]
     [ApiController]
+    [ApiKeyAuth]
     public class StudentsApiController : ControllerBase
     {
         private readonly SchoolContext _context;
@@ -30,6 +32,7 @@ namespace web.Controllers_Api
 
         // GET: api/StudentsApi/5
         [HttpGet("{id}")]
+        [ApiKeyAuth]
         public async Task<ActionResult<Student>> GetStudent(int id)
         {
             var student = await _context.Students.FindAsync(id);

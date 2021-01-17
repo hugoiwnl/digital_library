@@ -32,7 +32,7 @@ namespace web
 
 
             services.AddDbContext<SchoolContext>(options =>
-        options.UseSqlServer(Configuration.GetConnectionString("AzureContext")));
+        options.UseSqlServer(Configuration.GetConnectionString("SchoolContext")));
 
             services.AddIdentity<ApplicationUser, IdentityRole>(options => 
             options.Stores.MaxLengthForKeys = 128)
